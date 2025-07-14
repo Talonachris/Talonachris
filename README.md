@@ -11,7 +11,7 @@ A sleek fan-made companion app for [WhatPulse](https://whatpulse.org). Designed 
 * **App Store:** [iOS/iPad/macOS](https://apps.apple.com/app/pulseview/id6746577408) ・ [Apple TV](https://apps.apple.com/app/pulseview-tv/id6469466093)
 * **Website:** [pulseview.nebuliton.de](https://pulseview.nebuliton.de)
 * **Pages Repo:** [pulseview-pages](https://github.com/Talonachris/pulseview-pages)
-* **Private Codebase:** Main iOS/tvOS/macOS repo is private.
+* **Codebase:** Main iOS/tvOS/macOS/watchOS repo: [pulseview-ios](https://github.com/Talonachris/PulseViewApp-iOS)
 
 ---
 
