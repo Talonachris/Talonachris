@@ -49,7 +49,7 @@ A side-project that became more than utility – plugins for enhanced server met
 
 ---
 
-## 🧠 Profile Stats
+## 🨠 Profile Stats
 
 ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Talonachris\&theme=aura)
 
@@ -60,5 +60,10 @@ A side-project that became more than utility – plugins for enhanced server met
 ![Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Talonachris\&theme=aura\&utcOffset=8)
 
 ---
+## ⏱️ WakaTime Insights
 
-🛰️ All projects are actively maintained and part of a bigger ecosystem of companion tools and connected apps. Feedback is always welcome.
+![WakaTime Stats](https://github.com/Talonachris/Talonachris/blob/main/metrics.plugin.wakatime.svg)
+
+---
+
+🚀 All projects are actively maintained and part of a bigger ecosystem of companion tools and connected apps. Feedback is always welcome.
